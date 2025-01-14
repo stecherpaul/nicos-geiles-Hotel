@@ -1,0 +1,112 @@
+
+
+
+
+
+
+img {
+    width: 265px;
+    height: 132px;
+} 
+#Super {
+box-shadow: 8px 8px 10px 10px #000000;
+/* 1. horizontale Schatbreite 2. breite schatenbreite 3. Intensität des schattesn 4. Schattenfarbe*/
+float: left;
+
+}
+#Fuß {
+    border: 10px double #bb24c0;
+float: right;
+}
+
+
+
+#hotel {
+    border-radius:100%; 
+float: left;
+}
+ul{
+    list-style-type: square;
+} 
+
+
+ol{
+    list-style-type:upper-roman;
+}
+
+body{
+    background-color: #f9eeb7; 
+}
+
+h1 {color:#bb24c0 ;}
+h2{color:#5d9164 ;}
+a:link {color: #4caabf ;}
+a:visited {color:#a6a6a6;}
+table {border:double#bb24c0 }
+
+
+header{
+    border-radius: 20px;
+    Border: 1px solid #c77fdd;
+    background-color: #5d9164;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+nav{
+    border-radius: 20px;
+    Border: 1px solid#772fa7;
+    background-color:  #772fa7;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+main{
+    border-radius: 20px;
+    Border: 1px solid #2f4ba7;
+    background-color:  #772fa7;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+section{
+    border-radius: 20px;
+    Border: 1px solid #4e4e4a;
+    background-color:#5d9164;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+aside{
+    border-radius: 20px;
+    Border: 1px solid #4e4e4a;
+    background-color: #5d9164;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+footer{
+    border-radius: 20px;
+    Border: 1px solid #c77fdd;
+    background-color: #c77fdd;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+iframe {
+    border: none;
+    width: 100%;
+    height: 450px;
+   
+}
+
+.Hintergrund{
+    background-color:#772fa7 ;
+}
